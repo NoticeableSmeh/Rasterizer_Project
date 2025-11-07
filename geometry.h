@@ -1,6 +1,7 @@
 #pragma once
 #include <algorithm>
 #include <cassert>
+#include <cmath>
 #include <ostream>
 
 // 2D Vector stuff

@@ -50,5 +50,9 @@ Based On
 --------
 TinyRenderer - https://haqr.eu/tinyrenderer/
 
+For a more indepth review of the code: A step by step walkthrough on creating it.
+
+https://dev.to/noticeablesmeh/rasterizer-project-part-1-getting-started-jph 
+
 
 

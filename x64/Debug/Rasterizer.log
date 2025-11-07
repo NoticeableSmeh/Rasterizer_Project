@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\William\Desktop\Rasterizer\Rasterizer\main.cpp(75,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Rasterizer.vcxproj -> C:\Users\William\Desktop\Rasterizer\Rasterizer\x64\Debug\Rasterizer.exe

@@ -1,0 +1,9 @@
+cd "C:\Users\William\Desktop\Rasterizer\Rasterizer\x64\Release"
+
+
+"real    0m$((Measure-Command { .\Rasterizer.exe }).TotalSeconds.ToString('0.000'))s"
+
+
+
+cd "C:\Users\wide2327\Desktop\Rasterizer\x64\Release"
+"real    0m$((Measure-Command { .\Rasterizer.exe }).TotalSeconds.ToString('0.000'))s"

@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\William\Desktop\Rasterizer\Rasterizer\main.cpp(76,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  0 of 88 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Rasterizer.vcxproj -> C:\Users\William\Desktop\Rasterizer\Rasterizer\x64\Release\Rasterizer.exe

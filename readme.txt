@@ -14,13 +14,23 @@ Features
 - Framebuffer output saved as .bmp
 - Completely self-contained (no external dependencies)
 
+Example Output:
+---------------
+https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkmoz7fmp5hzbukouwz22.png
 
 Build Instructions
 ------------------
 Compile and run using any C++17 compiler:
+I put the zip onto my dekstop 
+C:\Users\yourName\Desktop\Rasterizer_Project-main
 
-    g++ main.cpp model.cpp -o rasterizer -std=c++17
-    ./rasterizer
+so CD C:\Users\yourName\Desktop\Rasterizer_Project-main
+
+then I run 
+
+g++ main.cpp model.cpp -o rasterizer -std=c++17
+
+Double click .exe that is now in folder and it should run.
 
 The program will generate a file called framebuffer.bmp in your project folder.
 
